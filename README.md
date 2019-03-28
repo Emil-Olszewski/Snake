@@ -1,5 +1,4 @@
 # Snake [New Version]
----
 Old good Snake game but with few improvements written in C++.
 
 ### Technologies
