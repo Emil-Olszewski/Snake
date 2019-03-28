@@ -20,7 +20,7 @@ There is a list of improvements unavailable in classic Snake.
 
 
 ### Ending
-It is my first seriously project which I have finished. I was 15 years old and just starting with programming. I'm writing this readme three years later while organising my GitHub :)
+It is my first seriously project which I finished. I was 15 years old and just starting with programming. I'm writing this readme three years later while organising my GitHub :)
 
 
 
