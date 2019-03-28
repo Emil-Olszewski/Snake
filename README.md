@@ -2,7 +2,7 @@
 Old good Snake game but with few improvements written in C++.
 
 ### Technologies
-It it written in ***C++*** and [SFML library]("https://github.com/SFML/SFML").
+It it written in ***C++*** and [SFML library](https://github.com/SFML/SFML).
 
 ### What's new to the old one?
 There is a list of improvements unavailable in classic Snake.
